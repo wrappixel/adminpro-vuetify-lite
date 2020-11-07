@@ -1,17 +1,17 @@
 <!-- # materialpro-vuetify-lite --->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.wrappixel.com/demos/free-admin-templates/materialpro-vuetify-free/main">Material Pro Vuetify Admin Free</a>
+  <a href="https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/">Admin Pro VueJs Dashboard Free</a>
 </h1>
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-lite-admin-wp-20.jpg">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-lite-admin-wp-20.jpg" />
+<a target="_blank" href="https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/11/feature_image.jpg" />
 </a>
 
 <!-- Description of Template -->
 <p>
-  Create high quality and stunning looking interfaces for your web application or dashboard using our Free MaterialPro Vuejs Admin Lite. It is based on google's material based design. It comes with some great components and page templates, which makes your life much easier when you are creating project with Vuejs. There is premium version also available of MaterialPro Vuetify Lite, which is very powerful and comes with tons of useful features and components. You can check <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">MaterialPro Vuetify Admin Template </a> for more details.
+  Create high quality and stunning looking interfaces for your web application or dashboard using our Free AdminPro Vuejs Admin Lite. It is based on google's material based design. It comes with some great components and page templates, which makes your life much easier when you are creating project with Vuejs. There is premium version also available of AdminPro Vuetify Lite, which is very powerful and comes with tons of useful features and components. You can check <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">Adminpro Vuetify Admin Template </a> for more details.
 </p>
 
 <!-- Versions of Template -->
@@ -55,11 +55,11 @@
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/materialpro-vuetify-free/main/" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/materialpro-vuetify-free/main/</a>
+  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/adminpro-vuetify-free/landingpage/" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/adminpro-vuetify-free/landingpage/</a>
 </li>
 <li>
-    Download Page: <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin-lite/" rel="nofollow">
-  https://www.wrappixel.com/templates/materialpro-vuetify-admin-lite</a>
+    Download Page: <a href="https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/" rel="nofollow">
+  https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/</a>
 </li>
 <li>
     <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
@@ -79,12 +79,12 @@
 
 <!-- Upgrade to Premium version of Template -->
 <h2>Upgrade to Premium version</h2>
-<a target="_blank" href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-dashboard-template-20.jpg" />
+<a target="_blank" href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/10/adminpro-vuetify-dasboard-template-y.jpg" />
 </a>
 <p>
    Checkout our premium version of Material Pro Vuetify Admin for lots more features and ready to use page templates.<br>
-   <a href="https://wrappixel.com/demos/vuejs-admin-templates/materialpro-vuetify-admin/main/dashboards/analytical">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Download</a>
+   <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/main/dashboards/analytical">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
