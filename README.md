@@ -55,7 +55,7 @@
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/adminpro-vuetify-free/landingpage/" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/adminpro-vuetify-free/landingpage/</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/vuejs/adminpro-vuejs-free/main/" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/vuejs/adminpro-vuejs-free/main/</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/" rel="nofollow">
@@ -70,7 +70,7 @@
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
   </li>
   <li>
     <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
@@ -84,7 +84,7 @@
 </a>
 <p>
    Checkout our premium version of Material Pro Vuetify Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/main/dashboards/analytical">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">Download</a>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/vuejs/adminpro-vuejs/main/dashboards/minimal">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
