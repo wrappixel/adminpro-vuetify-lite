@@ -150,7 +150,7 @@ AdminPro VueJs Admin Dashboard
 <tr>
 <th>Bootstrap</th>
 <th>Angular</th>
-<th>Nuxt Js</th>
+<th>Nuxt</th>
 <th>Vue Js</th>
 </tr>
 </thead>
