@@ -23,7 +23,7 @@ AdminPro VueJs Admin Dashboard
     <a href="https://adminpro-vue-free.netlify.app/">Live Preview</a>
   </td>
   <td>
-  <a href="https://demos.wrappixel.com/free-admin-templates/vuejs/adminpro-vuejs-free/landingpage/index.html">Live Preview</a>
+  <a href="https://adminpro-vuetify-main.netlify.app/dashboards/minimal">Live Preview</a>
   </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ AdminPro VueJs Admin Dashboard
       <a href="https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/">Download Now</a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">Purchase Now</a>
+    <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -135,12 +135,12 @@ AdminPro VueJs Admin Dashboard
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/10/adminpro-vuetify-dasboard-template-y.jpg" alt="">
+<a target="_blank" href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-vuetify-dashboard-wpn.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of AdminPro Vue3 + Vuetify Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://demos.wrappixel.com/free-admin-templates/vuejs/adminpro-vuejs-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/">Download</a>
+  <a href="https://adminpro-vuetify-main.netlify.app/dashboards/minimal">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33">Download</a>
 </p>
 
 <!-- Versions of Template -->
@@ -148,32 +148,32 @@ AdminPro VueJs Admin Dashboard
 <table>
 <thead>
 <tr>
-<th>Bootstrap</th>
+<th>Vue</th>
 <th>Angular</th>
 <th>Nuxt</th>
-<th>Vue Js</th>
+<th>Bootstrap</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/flexy-bootstrap-admin-template/" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-admin-template-y.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-vuetify-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/adminpro-angular-dashboard/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-angular-dashboard-y.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/adminpro-angular-dashboard/?ref=33" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-angular-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/adminpro-nuxtjs/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/07/adminpro-nuxtjs.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/adminpro-nuxtjs/?ref=33" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-nuxtjs-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/adminpro-react-redux-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-y.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/adminpro/?ref=33" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-bootstrap-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 </td>
