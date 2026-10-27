@@ -1,12 +1,5 @@
-
 # <a href="https://adminpro-vue-free.netlify.app/">Adminpro Vuetify Free</a>
 AdminPro VueJs Admin Dashboard
-
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/11/feature_image.jpg" />
-</a>
-
 
 # Compare with Premium Version 🌓
 
@@ -20,18 +13,18 @@ AdminPro VueJs Admin Dashboard
 <tbody>
 <tr>
   <td>
-    <a href="https://adminpro-vue-free.netlify.app/">Live Preview</a>
+    <a href="https://spike-vue-free.netlify.app/">Live Preview</a>
   </td>
   <td>
-  <a href="https://adminpro-vuetify-main.netlify.app/dashboards/minimal">Live Preview</a>
+  <a href="https://spike-vue-main.netlify.app/auth/login">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-      <a href="https://www.wrappixel.com/templates/adminpro-vuetify-admin-lite/">Download Now</a>
+      <a href="https://wrappixel.com/templates/adminpro-vuetify-admin-lite"><b>Download Now</b></a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33">Purchase Now</a>
+    <a href="https://wrappixel.com/templates/adminpro-vuetify-dashboard?ref=33"><b>Purchase Now</b></a>
   </td>
 </tr>
 <tr>
@@ -135,70 +128,27 @@ AdminPro VueJs Admin Dashboard
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33">
+<a target="_blank" href="https://wrappixel.com/templates/adminpro-vuetify-dashboard?ref=33">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-vuetify-dashboard-wpn.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of AdminPro Vue3 + Vuetify Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://adminpro-vuetify-main.netlify.app/dashboards/minimal">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33">Download</a>
+  <a href="https://adminpro-vuetify-main.netlify.app/dashboards/minimal">Check Live Preview</a> | <a href="https://wrappixel.com/templates/adminpro-vuetify-dashboard?ref=33"><b>Download</b></a>
 </p>
-
-<!-- Versions of Template -->
-# Versions
-<table>
-<thead>
-<tr>
-<th>Vue</th>
-<th>Angular</th>
-<th>Nuxt</th>
-<th>Bootstrap</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-  <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-vuetify-dashboard-wpn.jpg" alt="" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/adminpro-angular-dashboard/?ref=33" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-angular-dashboard-wpn.jpg" alt="" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/adminpro-nuxtjs/?ref=33" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-nuxtjs-dashboard-wpn.jpg" alt="" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/adminpro/?ref=33" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-bootstrap-dashboard-wpn.jpg" alt="" style="max-width:150px;">
-  </a>
-</td>
-</td>
-  
-</tr>
-</tbody>
-</table>
-
-
-
-
 
 <!-- Useful Links of Template -->
 # Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com"><b>Admin Theme</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro"><b>Bootstrap Themes</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-lite"><b>Free Bootstrap Admin Templates</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-react-redux-admin"><b>React Bootstrap Template</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-vuetify-admin"><b>Vuejs Templates</b></a> from Wrappixel</p>
 
 
 <!-- Licensing of Template -->
 # Licensing
-- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
-- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+- <p>Copyright 2024 Wrappixel <a href="https://wrappixel.com"><b>https://wrappixel.com</b></a></p>
+- <p>Licensed under MIT <a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a></p>
 
 
 <!-- Social Media of Adminmart -->
@@ -210,5 +160,3 @@ AdminPro VueJs Admin Dashboard
 - <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
 - <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
 - <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
-
-
